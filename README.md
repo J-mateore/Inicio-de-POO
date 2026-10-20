@@ -32,7 +32,8 @@ Crear la clase Estudiante con los atributos nombre, nota1, nota2, nota3 y promed
 Se creó la clase Estudiante calculando el promedio automáticamente desde el constructor. En la clase principal se instanciaron 5 estudiantes en un arreglo, evaluando su rendimiento mediante un bucle e identificando el estado académico de cada uno junto con el conteo final de aprobados.
 
 #### Evidencia de codificación:
-*[AQUÍ VA LA CAPTURA DEL EJERCICIO 1]*
+*<img width="421" height="383" alt="image" src="https://github.com/user-attachments/assets/5c4d2f7d-92e9-4002-8376-9c97f129d079" />
+*
 
 ---
 
@@ -45,7 +46,8 @@ Crear la clase Producto con nombre, precio y stock. Crear 4 productos e imprimir
 Se definió la clase Producto con un método para reducir el stock tras cada venta y calcular el valor total. En el método principal se imprimió el catálogo inicial, se simularon las ventas indicadas y se recorrió el arreglo para alertar los productos con bajo stock y calcular la suma global del inventario.
 
 #### Evidencia de codificación:
-*[AQUÍ VA LA CAPTURA DEL EJERCICIO 2]*
+*<img width="478" height="484" alt="image" src="https://github.com/user-attachments/assets/c5d9d328-8433-491e-814b-71ed48014ee7" />
+*
 
 ---
 
@@ -58,7 +60,8 @@ Crear la clase Mascota con nombre, especie, edad y peso. Crear 3 mascotas e impr
 Se implementó la clase Mascota filtrando mediante condiciones los casos que superan los 20 kg. Adicionalmente, se demostró el concepto de asignación de referencias en memoria igualando `m4 = m1`, evidenciando que al alterar la edad desde `m4`, la variable `m1` se modifica por apuntar al mismo objeto en el Heap.
 
 #### Evidencia de codificación:
-*[AQUÍ VA LA CAPTURA DEL EJERCICIO 3]*
+*<img width="453" height="294" alt="image" src="https://github.com/user-attachments/assets/3301764d-a9c6-41f3-8351-ec7f3e57512a" />
+*
 
 ---
 
@@ -71,7 +74,8 @@ Crear la clase Cuenta con titular y saldo. Crear 2 cuentas, una con 200 y otra c
 Se creó la clase Cuenta almacenando el saldo inicial de cada titular. Mediante un bucle `while`, se realizaron depósitos mensuales de $50 incrementando un contador de meses de manera independiente hasta alcanzar la meta de $500, imprimiendo el desglose mes a mes de los saldos.
 
 #### Evidencia de codificación:
-*[AQUÍ VA LA CAPTURA DEL EJERCICIO 4]*
+*<img width="465" height="603" alt="image" src="https://github.com/user-attachments/assets/ba15834d-baef-4e88-a0ad-05b7139a3a79" />
+*
 
 ---
 
@@ -84,4 +88,5 @@ Crear las clases Libro (titulo, autor, disponible) y Socio (nombre, librosPresta
 Se modeló la relación entre las clases Libro y Socio mediante un método de préstamo que actualiza el estado de disponibilidad e incrementa los préstamos del socio. Al final, se recorren las colecciones para imprimir el catálogo actualizado, los registros por socio y el total de libros disponibles.
 
 #### Evidencia de codificación:
-*[AQUÍ VA LA CAPTURA DEL EJERCICIO 5]*
+*<img width="445" height="440" alt="image" src="https://github.com/user-attachments/assets/06827e45-d554-423e-86b9-65a5df910b61" />
+*
